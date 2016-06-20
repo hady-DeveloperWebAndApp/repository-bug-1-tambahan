@@ -1,20 +1,234 @@
-# repository-bug-1-tambahan
+# repository-bug-1-tambahan perbaikan bug awal
+
+==================================================
+Nama Kelompok : Bless Store
+Alamat Github : https://github.com/hadypriyono1/repository-bug-1-tambahan/edit/master/README.md 
+Alamat Trello : https://trello.com/b/PGtEkSW3/creatif-bless
+Topik         : Website yang hanya menjual baju batik untuk remaja dan orang tua dengan harga terjangkau dan terjamin.
+===================================================
 
 nama ketua    : HADY PRIYONO (141114240) 
 nama anggoata : Megawaty Simamora (141114762)
                 Patar Siahaan (141114517)
+==================================================
                 
 Revisi Bug Perbaikan yang kosong 
 start bug repository : 
 
-14 - 05 - 2016
+31 - 05 - 2016
 (HADY)
-1. hari ini saya melakukan pengecekan terhadap trello
-2. saya mendapati masalah pada installasi dan update node.js
+1. hari ini saya membuat trello baru 
+2. saya mendapati manambahkan picture di trello
 3. hari ini saya menambahkan isi konten website
 
 (Patar)
-1. hari ini saya mencari referensi website yang terbaru
+1. hari ini saya mencari info website yang terbaru
+2. hari ini saya mengalami kerusakan file website kita
+3. 
+
+(Mega)
+1. hari ini saya memberikan konten batik untuk wilayah medan
+2. hari ini saya menambahkan isi konten website kita
+3. saya mengalami kendala dari segi internet
+
+1 - 06 - 2016
+(HADY)
+1. hari ini saya membuat treello baru untuk informasi kepada anggota
+2. saya mendapati masalah pada menambahkan anggota di trello
+3. hari ini saya menambahkan isi bagian register website
+
+(Patar)
+1. hari ini menambahkan isi konten batik dari Medan 
+2. hari ini saya mengalami masalah pada saat dijalankan terjadi bug di browser saya
+3. maaf anggota hari ini saya off berhubung ada kerusakan software
+
+(Mega)
+1. hari ini saya menambahkan file teks di html
+2. hari ini saya menambahkan isi konten website kita untuk bagian header woman
+3. saya mengalami kendala pada saat menjalankan website
+
+2 - 06 - 2016
+(HADY)
+1. hari ini saya membuat ukuran gambar untuk header awal website
+2. saya mengalami masalah pada saat memberikan font tambahan
+3. hari ini saya mendapati masalah pada saat update file website di github
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+3 - 06 - 2016
+(HADY)
+1. hari ini saya melampirkan photo untuk website bagian home di github
+2. saya mengalami masalah pada saat menghubungkan dan instasi bespoke generator
+3. hari ini saya mendapati masalah pada saat update bespoke generator
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+4 - 06 - 2016
+(HADY)
+1. hari ini saya membuat dan menambhakan bagian konten menu dari Account,login dan checkout
+2. ada kendala pada saat saya melakukan instalasi bespoke generator 
+3. hari ini saya mengetahui kesalahan dari instalasi bespoke generator
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+5 - 06 - 2016
+(HADY)
+1. hari ini saya menambhkan isi commit di github
+2. saya mengalami masalah pada menunggu respon anggota 
+3. hari ini saya mencoba memberikan invite contrubutor kepada anggota tetapi tidak dibalas
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+6 - 06 - 2016
+(HADY)
+1. hari ini saya telah menyelesaikan bagian home, womens , mens other dan family
+2. saya mengalami masalah pada saat menambhakan ukuran gambar di website
+3. hari ini saya mengecek kembali kesalahan pada ukuran gambar
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+7 - 06 - 2016
+(HADY)
+1. hari ini saya memberikan informasi kembali kepada anggota untuk bergabung di github
+2. saya mengalami masalah karena anggota tidak merespon ke github
+3. hari ini saya menambahkan isi konten untuk bagian menu women
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+8 - 06 - 2016
+(HADY)
+1. untuk hari ini saya menggabungkan beberapa link dari website
+2. hari ini saya menambhakan isi konten website
+3. hari ini saya mengecek kembali website
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+9 - 06 - 2016
+(HADY)
+1. untuk hari ini saya menggabungkan beberapa link dari website pada bagian register ke pembelian
+2. hari ini saya menambhakan isi konten website mens dan woman
+3. hari ini saya mengecek kembali website
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+10 - 06 - 2016
+(HADY)
+1.  hari ini saya membuat bagian detail produk
+2. hari ini saya menambhakan isi konten website utuk pembelian barang
+3. hari ini saya mengalami masalah pada saat install bespoke -bullets dan backdrop
+
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+10 - 06 - 2016
+(HADY)
+1.  hari ini saya memberikan informasi kembali untuk anggota segera bergabung ke github
+2. hari ini saya masalah untuk pengedit file repository bug1 tamabahan
+3. hari ini saya mengalami masalah dari segi koneksi jaringan 
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+13 - 06 - 2016
+(HADY)
+1.  hari ini saya memberikan informasi kembali untuk anggota segera bergabung ke github
+2. hari ini saya masalah untuk pengedit file repository bug1 tamabahan kembali
+3. hari ini saya mendapati masalah saat update file dicommit
+(Patar)
+1. untuk hari ini saya ada urusan diluar
+2.
+3. maaf anggota hari ini saya off 
+
+(Mega)
+1. untuk hari ini saya ada urusan diluar
+2. 
+3. maaf anggota hari ini saya off 
+
+
+14 - 06 - 2016
+(HADY)
+1. hari ini saya mencari referensi mengenai bespoke.js
+2. saya mendapati masalah pada installasi dan update node.js
+3. hari ini saya melakukan penambahan batik konten dari kalimantan
+
+(Patar)
+1. hari ini saya 
 2. hari ini saya mengalami kerusakan file website kita
 3. maaf anggota hari ini saya off berhubung ada kerusakan hardware
 
@@ -84,9 +298,30 @@ start bug repository :
 
 (Mega)
 1. hari ini saya tidak bisa hadir 
-2. kepada anggoata saya tidak bisa hadir
+2. kepada anggota saya tidak bisa hadir
 3.
 
+20 - 06 - 2016
+(HADY)
+1. hari ini saya menyelesaikan semua bagian website 
+2. hari ini saya menambhakan history untuk bug1 tambahan di commit
+3. sya mengalami masalah karena anggota tidak bergabung
+
+(Patar)
+1. 
+2.
+3.
+
+(Mega)
+1. 
+2. 
+3.
+
+21 - 06 -2016 jam 03.00
+(Hady)
+1. saya pagi ini mengupload file final mengenai website dan bahan presentasi di repository 1
+2. hari ini saya membuat treello kembali
+3. hari ini saya melakukan uji coba tugas website.
 
   
   
