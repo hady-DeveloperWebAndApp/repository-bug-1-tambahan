@@ -8,8 +8,8 @@ Topik         : Website yang hanya menjual baju batik untuk remaja dan orang tua
 ===================================================
 
 nama ketua    : HADY PRIYONO (141114240) 
-nama anggoata : Megawaty Simamora (141114762)
-                Patar Siahaan (141114517)
+nama anggoata : Megawaty Simamora (141114762) dan  Patar Siahaan (141114517)
+               
 ==================================================
                 
 Revisi Bug Perbaikan yang kosong 
